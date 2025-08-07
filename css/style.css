@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: #0e1344;
+  background: #000105;
   display: flex;
   justify-content: center;
   align-items: start;
@@ -10,7 +10,7 @@ body {
 }
 
 .card {
-  background: white;
+  background: rgb(255, 249, 249);
   padding: 2rem;
   border-radius: 16px;
   box-shadow: 0 0 15px rgba(0,0,0,0.1);
